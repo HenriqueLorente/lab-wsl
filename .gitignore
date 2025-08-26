@@ -4,3 +4,11 @@
 crash.log
 .terraform.tfstate.lock.info
 
+
+# Terraform
+.terraform/
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.tfstate.lock.info
